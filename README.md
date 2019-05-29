@@ -21,15 +21,14 @@
 19.pip3 install wikiapi
 20.pip3 install wikipedia
 21.pip3 install thrift
-22.pip3 install urllib3
-23.pip3 install html5lib
-24.pip3 install traceback
-25.pip3 install bs4
-26.pip3 install gtts
-27.pip3 install str
-28.pip3 install antolib
-29.pip3 install akad
-30.cd chivaree
-31.python3 kitty.py
+22.pip3 install html5lib
+23.pip3 install traceback
+24.pip3 install bs4
+25.pip3 install gtts
+26.pip3 install str
+27.pip3 install antolib
+28.pip3 install akad
+29.cd chivaree
+30.python3 kitty.py
 
- •• Id Linë : chivaree
+•💗• Id Linë : chivaree
