@@ -18,17 +18,14 @@
 16.pip3 install youtube_dl
 17.pip3 install googletrans
 18.pip3 install pafy
-19.pip3 install wikiapi
-20.pip3 install wikipedia
-21.pip3 install thrift
-22.pip3 install html5lib
-23.pip3 install traceback
-24.pip3 install bs4
-25.pip3 install gtts
-26.pip3 install str
-27.pip3 install antolib
-28.pip3 install akad
-29.cd chivaree
-30.python3 kitty.py
+19.pip3 install html5lib
+20.pip3 install traceback
+21.pip3 install bs4
+22.pip3 install gtts
+23.pip3 install str
+24.pip3 install antolib
+25.pip3 install akad
+26.cd chivaree
+27.python3 kitty.py
 
-•💗• Id Linë : chivaree
+  •💗• Id Linë : chivaree
