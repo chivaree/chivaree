@@ -1,29 +1,35 @@
   💗•💗 HEŁŁO KITTY 💗•💗
 
-1.  apt update
-2.  apt upgrade
-3.  pkg install python
-4.  pkg install nano
-5.  pkg install pip
-6.  pkg install python3
-7.  pkg install pip3
-8.  pkg install git
-9.  git clone https://github.com/chivaree/chivaree
-10.  pip3 install rsa
-11. pip3 install thrift==0.11.0
-12. pip3 install requests
-13. pip3 install bs4
-14. pip3 install gtts
-15. pip3 install pytz
-16. pip3 install humanfriendly
-17. pip3 install googletrans
-18. pip3 install antolib
-19. pip3 install pafy
-20. pip3 install youtube_dl
-21. pip3 install linepy
-22. pip3 install akad
-23. pip3 install traceback
-24. cd chivaree
-25. python3 kitty.py
+apt update
+apt upgrade
+pkg install nano
+pkg install python
+pkg install pip
+pkg install python3
+pkg install pip3
+pkg install git
+git clone https://github.com/chivaree/chivaree
+pip3 install requests
+pip3 install thrift==0.11.0
+pip3 install rsa
+pip3 install pytz
+pip3 install linepy
+pip3 install humanfriendly
+pip3 install youtube_dl
+pip3 install googletrans
+pip3 install pafy
+pip3 install wikiapi
+pip3 install wikipedia
+pip3 install thrift
+pip3 install urllib3
+pip3 install html5lib
+pip3 install traceback
+pip3 install bs4
+pip3 install gtts
+pip3 install str
+pip3 install antolib
+pip3 install akad
+ 💗  cd chivaree
+ 💗  python3 kitty.py
 
-  🔶🔷🔶 Id Linë : chivaree
+ 🔶•🔷•🔶 Id Linë : chivaree
