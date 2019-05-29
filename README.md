@@ -32,4 +32,4 @@
 30.cd chivaree
 31.python3 kitty.py
 
- •💗• Id Linë : chivaree
+ •• Id Linë : chivaree
